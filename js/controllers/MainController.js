@@ -43,4 +43,3 @@ app.controller('MainController', ['$scope', function($scope) {
   };
 
 }]);
-// not up to Date
